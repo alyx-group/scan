@@ -846,17 +846,17 @@ msgstr ""
 #: lib/block_scout_web/views/transaction_view.ex:214
 #, elixir-autogen, elixir-format
 msgid "ERC-1155 "
-msgstr ""
+msgstr "XRC-1155"
 
 #: lib/block_scout_web/views/transaction_view.ex:212
 #, elixir-autogen, elixir-format
 msgid "ERC-20 "
-msgstr ""
+msgstr "XRC-20"
 
 #: lib/block_scout_web/views/transaction_view.ex:213
 #, elixir-autogen, elixir-format
 msgid "ERC-721 "
-msgstr ""
+msgstr "XRC-721"
 
 #: lib/block_scout_web/templates/address_token/overview.html.eex:1
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:104
@@ -864,7 +864,7 @@ msgstr ""
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:146
 #, elixir-autogen, elixir-format
 msgid "ETH"
-msgstr ""
+msgstr "ALYX"
 
 #: lib/block_scout_web/templates/api_docs/eth_rpc.html.eex:4
 #, elixir-autogen, elixir-format
@@ -957,7 +957,7 @@ msgstr ""
 #: lib/block_scout_web/views/wei_helpers.ex:78
 #, elixir-autogen, elixir-format
 msgid "Ether"
-msgstr ""
+msgstr "ALYX"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:211
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:164
@@ -1274,7 +1274,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/overview.html.eex:297
 #, elixir-autogen, elixir-format
 msgid "List of ERC-1155 tokens created in the transaction."
-msgstr ""
+msgstr "List of XRC-1155 tokens created in the transaction."
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:281
 #, elixir-autogen, elixir-format
@@ -1801,7 +1801,7 @@ msgstr ""
 #: lib/block_scout_web/templates/address_token/overview.html.eex:59
 #, elixir-autogen, elixir-format
 msgid "Shows the tokens held in the address (includes ERC-20, ERC-721 and ERC-1155)."
-msgstr ""
+msgstr "Shows the tokens held in the address (includes XRC-20, XRC-721 and XRC-1155)."
 
 #: lib/block_scout_web/templates/address_token/overview.html.eex:66
 #, elixir-autogen, elixir-format
