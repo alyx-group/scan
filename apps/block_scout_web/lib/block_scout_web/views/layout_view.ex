@@ -9,8 +9,8 @@ defmodule BlockScoutWeb.LayoutView do
 
   @default_other_networks [
     %{
-      title: "Testnet",
-      url: "https://testnet.alyxchain.com"
+      title: "Mainnet",
+      url: "https://www.alyxscan.com"
     },
     # %{
     #   title: "POA",
