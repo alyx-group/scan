@@ -124,7 +124,7 @@ const appJs =
             }
           }
         }, {
-          test: /\.(png)$/,
+          test: /\.(png|jpg)$/,
           use: {
             loader: 'file-loader'
           }

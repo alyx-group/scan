@@ -16,8 +16,12 @@
     <% end %>
     <link rel="preload" href="<%= static_path(@conn, "/js/autocomplete.js") %>" as="script">
     <link rel="preload" href="<%= static_path(@conn, "/images/icons/fontawesome/github.svg") %>" as="image" crossorigin>
+    <link rel="preload" href="<%= static_path(@conn, "/images/icons/fontawesome/github.jpg") %>" as="image" crossorigin>
     <link rel="preload" href="<%= static_path(@conn, "/images/icons/fontawesome/twitter.svg") %>" as="image" crossorigin>
+    <link rel="preload" href="<%= static_path(@conn, "/images/icons/fontawesome/twitter.jpg") %>" as="image" crossorigin>
     <link rel="preload" href="<%= static_path(@conn, "/images/icons/fontawesome/telegram.svg") %>" as="image" crossorigin>
+    <link rel="preload" href="<%= static_path(@conn, "/images/icons/fontawesome/telegram.jpg") %>" as="image" crossorigin>
+    <link rel="preload" href="<%= static_path(@conn, "/images/icons/fontawesome/discord.jpg") %>" as="image" crossorigin>
     <link rel="preload" href="<%= static_path(@conn, "/images/icons/fontawesome/bar-chart.svg") %>" as="image" crossorigin>
     <link rel="preload" href="<%= static_path(@conn, "/images/icons/fontawesome/info-circle.svg") %>" as="image" crossorigin>
     <link rel="preload" href="<%= static_path(@conn, "/images/icons/fontawesome/tag.svg") %>" as="image" crossorigin>
