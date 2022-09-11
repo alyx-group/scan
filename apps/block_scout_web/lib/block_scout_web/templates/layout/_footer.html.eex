@@ -81,9 +81,6 @@
         </div>
       <% end %>
     </div>
-  <div class="footer-copyright">
-  Copyright © 2022 Alyx Chain. All rights reserved. Powered by Blockscout.
-  </div>
   </div>
   <div class="copyright">
   Copyright © 2022 Alyx Chain. All rights reserved. Powered by Blockscout.
