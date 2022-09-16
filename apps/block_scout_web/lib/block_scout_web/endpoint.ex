@@ -27,7 +27,7 @@ defmodule BlockScoutWeb.Endpoint do
       apple-touch-icon.png
       browserconfig.xml
       mstile-150x150.png
-      safari-pinned-tab.svg
+      safari-pinned-tab.png
       robots.txt
     ),
     only_matching: ~w(manifest)
